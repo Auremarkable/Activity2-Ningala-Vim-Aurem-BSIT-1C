@@ -22,3 +22,10 @@
     bottom: 270px;
     left: 300px;
 }
+#landing p{
+    font-size: 20px;
+    text-shadow: 3px 3px 1px black;
+    position: absolute;
+    bottom: 250px;
+    left: 400px;
+}
