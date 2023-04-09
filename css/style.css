@@ -101,3 +101,6 @@ li:nth-child(3):hover{
 li:nth-child(2):hover{
     box-shadow: 0 1px 3px 3px rgba(0, 0, 0, 0.19);
 }
+li:nth-child(1):hover{
+    box-shadow: 0 1px 3px 3px rgba(0, 0, 0, 0.19);
+}
