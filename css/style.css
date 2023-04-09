@@ -29,3 +29,9 @@
     bottom: 250px;
     left: 400px;
 }
+#blog{
+    margin-top: 130px;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+}
