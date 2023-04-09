@@ -89,3 +89,6 @@ ul li{
     justify-content: space-between;
     margin-right: 30px;
 }
+li:first-child:hover{
+    background-color: orangered;
+}
