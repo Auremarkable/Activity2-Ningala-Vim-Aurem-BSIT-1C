@@ -62,3 +62,8 @@ div p{
     text-align: justify;
     padding: 20px;
 }
+div a{
+    margin-right: 100px;
+    color: gray;
+    text-decoration: none;
+}
